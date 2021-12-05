@@ -3147,7 +3147,7 @@ input[type="button"].btn-block {
   cursor: not-allowed;
 }
 .open > .dropdown-menu {
-  display: block;
+  display: inline;
 }
 .open > a {
   outline: 0;
